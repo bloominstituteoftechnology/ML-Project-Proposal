@@ -64,5 +64,5 @@ tools to handle the problem at hand.
 
 You should spend 1-2 days working on the above, and then you should open a PR to
 this repository where you fill out the template in the `PROPOSAL.md` file to
-describe your planned project. You will have another ~1.5 weeks to work on this
-project, so choose a scope that is appropriate. Thanks, and good luck!
+describe your planned project. You will have 2 weeks to work on this project, so
+choose a scope that is appropriate. Thanks, and good luck!
