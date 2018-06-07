@@ -1,6 +1,6 @@
 # ML Project Proposal
-STUDENT NAME
-PROJECT TOPIC/NAME
+- STUDENT NAME
+- PROJECT TOPIC/NAME
 
 ## What track are you choosing (analysis or engineering)?
 TODO
