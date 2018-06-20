@@ -1,9 +1,9 @@
 # ML Project Proposal
-- STUDENT NAME
+- Tina Kovacova
 - PROJECT TOPIC/NAME
 
 ## What track are you choosing (analysis or engineering)?
-TODO
+Analysis
 
 ## What is your data source?
 TODO
