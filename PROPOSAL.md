@@ -1,21 +1,22 @@
 # ML Project Proposal
-- STUDENT NAME
-- PROJECT TOPIC/NAME
+- Marina Longnickel
+- Stock price prediction
 
 ## What track are you choosing (analysis or engineering)?
-TODO
+engineering
 
 ## What is your data source?
-TODO
+Google finance (possibly also Twitter)
 
 ## Summarize the status of your data and what cleaning is needed.
-TODO
+Not sure yet
 
 ## Summarize the structure of your data and what models/techniques work with it.
-TODO
+Lots of numbers and possibly also text.
+Will use CNN and possibly NLP.
 
 ## What is your overall goal with this project?
-TODO
+Make loads of munniez and retire by the time I'm 35 ...
 
 ## Anything else you want to note about your project?
-TODO
+
