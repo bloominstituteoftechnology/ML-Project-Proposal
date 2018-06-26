@@ -1,6 +1,7 @@
 # ML Project Proposal
 - Jake Huneycutt
 - Kaggle: Home Credit Default Risk
+- Link: https://www.kaggle.com/c/home-credit-default-risk
 
 ## What track are you choosing (analysis or engineering)?
 Analysis (for now), but interested in engineering
