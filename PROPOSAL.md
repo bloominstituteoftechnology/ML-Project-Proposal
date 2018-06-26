@@ -47,3 +47,6 @@ To work with a very complex data project and achieve a top 10% score on Kaggle
 * Pros: could land me a job with a company like Time Warner / Turner / HBO; high personal interest in this topic
 * Cons: finding good data could prove very tricky; all these companies are secretive and I would have to use various press releases, articles, financial statements, and even deduction to try to find content deal pricings. 
 * Other comments: Might work on this as a personal semi-data science project, but I'm concerned I won't be able to find enough reliable data for it to work as a full data science project.
+
+5.) Healthcare Data
+* Not a concrete idea, per se, but interested in healthcare data. I have not found an interesting topic on this subject yet, though. 
