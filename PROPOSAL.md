@@ -4,16 +4,16 @@
 - Link: https://www.kaggle.com/c/home-credit-default-risk
 
 ## What track are you choosing (analysis or engineering)?
-Analysis (for now), but interested in engineering
+Analysis. At least for now, however, I'm interested in engineering as well. 
 
 ## What is your data source?
 https://www.kaggle.com/c/home-credit-default-risk/data
 
 ## Summarize the status of your data and what cleaning is needed.
-There are several datasets to analyze and over 1 million rows of data; unsure how much cleaning is necessary right now
+In order to predict home credit default risk, there are several datasets involved (~ 6-8). Would require a lot of cleaning, as well, possibly mering the datasets. 
 
 ## Summarize the structure of your data and what models/techniques work with it.
-Supervised learning, classification (default or not), large dataset
+Supervised learning, classification (default or not), large dataset with over 300,000 customers and potentially more than 1 million rows of data. 
 
 ## What is your overall goal with this project?
 To work with a very complex data project and achieve a top 10% score on Kaggle
@@ -23,19 +23,24 @@ No
 
 ## Alternative Project Ideas
 1.) Kaggle: Ames Housing Price data -> https://www.kaggle.com/c/house-prices-advanced-regression-techniques
-* I've done some work on this already and want to finish it
-* Don't necessarily know that it's a 2 week project, maybe more like 1 week
-* Could do this project and then try to do Home Credit Default Risk project if I finish early
+* Description: real estate price prediction off of Ames, Iowa housing data
+* Pros: Fun Kaggle project, show off my feature engineering skills, confident I can do well on it
+* Cons: Easier than the home credit default risk contest; might finish it before 2 weeks are up
+* Other comments: Could do this project and then try to do Home Credit Default Risk project if I finish early
 
 2.) South American Company Valuation
-* Create long-term dataset built on publicly traded South American companies (reg expressions, possibly web scraping)
-* Use dataset to make predictions on long-term valuations to create model for when time is to buy
+* Description: Get data from South American publicly traded companies over the past 10 - 20 years and use the data to make valuation predictions
+* Pros: Would be very valuable to investment firms and would help me on a long-term goal; moving more in the direction of engineering
+* Cons: Might not be do-able in 2 weeks; biggest challenge would be obtaining the data to begin with
+* Other comments: would require lot of work with regular expressions, maybe web scraping, lots of data cleaning, even Spanish language translation built into my program; this is all do-able, but might take much longer than 2 weeks
 
 3.) Predicting Sub-Saharan African nation GDP growth 2019 - 2040 (for investment purposes)
-* Would use demographic data, world bank economic / health / education data, and Fraser Institute Economic Freedom data to make predictions
-* difficulties: might be difficult putting together disparate data sources; predictions may still be difficult
+* Description: Use various data sources (World Bank, healthcare, education, demographics, economic freedom) to make predictions about GDP growth for sub-Saharan African countries for purposes of investment
+* Pros: potentially valuable to investment firms
+* Cons: might be difficult putting together disparate data sources; even if I get all the data, no guarantee that the predictions will be valuable; economic growth can be very tricky to forecast over a long-term timeframe since political situations can change quickly
 
 4.) Valuing AT&T's Content Assets
-* Would require finding data on Netflix + Amazon + Hulu content deals which could prove tricky
-* Data will likely come from disparate sources; I can't find any centralized location reporting on content deals
-* Use data on content deals to value AT&T's content assets (HBO, Turner, etc)
+* Description: Use data on Netflix, Amazon, and Hulu's content deals in order to try to value AT&T content assets acquired from Time Warner, Turner, and HBO
+* Pros: could land me a job with a company like Time Warner / Turner / HBO; high personal interest in this topic
+* Cons: finding good data could prove very tricky; all these companies are secretive and would have to use various press releases, articles, financial statements, and even deduction to try to find content deal pricings. 
+* Other comments: Might work on this as a personal semi-data science project, but I'm concerned I won't be able to find enough reliable data for it to work as a full data science project. 
