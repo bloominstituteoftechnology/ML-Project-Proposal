@@ -21,8 +21,8 @@ Supervised learning, classification (default or not), large dataset with over 30
 To work with a very complex data project and achieve a top 10% score on Kaggle
 
 ## Anything else you want to note about your project?
-Pros: prize money, difficult competition that could showcase my skills, huge learning experience
-Cons: might not do as well as I hope; think I'm really going to have to dig into the data before I have any intuition about how well I will do; however, I'm not afraid of the challenge
+* Pros: prize money, difficult competition that could showcase my skills, huge learning experience
+* Cons: might not do as well as I hope; think I'm really going to have to dig into the data before I have any intuition about how well I will do; however, I'm not afraid of the challenge
 
 ## Alternative Project Ideas
 1.) Kaggle: Ames Housing Price data -> https://www.kaggle.com/c/house-prices-advanced-regression-techniques
