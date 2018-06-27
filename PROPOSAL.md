@@ -27,7 +27,7 @@ Haven't looked into the above sources with depth, but some common steps which wi
 
 ## What is your overall goal with this project?
 **2 goals:**
-1. Overall goal is to ship something which is usable by the end consumer (i.e. it is working to some extent)
+1. Overall goal is to ship something which is usable by the end consumer (i.e. it is working to some extent) – target user being the Lambda School grads currently in the job market
 2. Explore LSTMs in depth (practical implementation point of view), and explore the entire lifecyle of a NLP project end to end – starting from baselines, ending with the state-of-the-art Deep Learning models
 
 There has been some work in this area using Deep Learning, but mostly its focused on the hiring end of the spectrum by hiring agencies. In this project, idea is to focus on the resume improvement, for the job applicant. The services/products which exist in this space seem to be mostly using rule-based parsers – so there is scope of improvement.
