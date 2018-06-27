@@ -1,34 +1,25 @@
 # ML Project Proposal
 - Saranya
-- Cancer Detection using basic ANN Model.
+- Cancer Detection using Deep Learning
 
 ## What track are you choosing (analysis or engineering)?
 Engineering
 
 ## What is your data source?
-https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
+https://www.kaggle.com/paultimothymooney/predict-idc-in-breast-cancer-histology-images/data
 
 ## Summarize the status of your data and what cleaning is needed.
+Dataset for this problem has been collected by researcher at Case Western Reserve University in Cleveland, Ohio. This dataset is preprocessed by nice people at Kaggle and can be used directly.
 
-Data has missing values and those values needed to be filled with appropriate values.
 
 ## Summarize the structure of your data and what models/techniques work with it.
-Features are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. They describe characteristics of the cell nuclei present in the image. 
+There are 162 whole mount slides images available in the dataset. These slides have been scanned at 40x resolution. Finally, those slides then are divided 275,215 50x50 pixel patches. Then one label of 0 or 1 is assigned to each of these patches. For patches that include IDC has label of 1 and patches that don’t include IDC have label of 0.
 
-Attribute Information:
-
-1) ID number 2) Diagnosis (M = malignant, B = benign) 3-32)
-
-Ten real-valued features are computed for each cell nucleus:
-
-a) radius (mean of distances from center to points on the perimeter) b) texture (standard deviation of gray-scale values) c) perimeter d) area e) smoothness (local variation in radius lengths) f) compactness (perimeter^2 / area - 1.0) g) concavity (severity of concave portions of the contour) h) concave points (number of concave portions of the contour) i) symmetry j) fractal dimension ("coastline approximation".
-
-Techniques:
-1. ANN
-2. Deep Learning
+Techniques Used:
+ResNet architecture 
 
 ## What is your overall goal with this project?
-Learn about implementing the above mentioned techniques by working with various different kinds of datasets.
+Learn about image classification techniques.
 
 ## Anything else you want to note about your project?
 TODO
