@@ -1,6 +1,6 @@
 # ML Project Proposal
 - Jason Fleischer
-- Sentiment Analysis and Clustering of Supreme Court Opinions
+- Sentiment Analysis and Clustering of Opinions of the Supreme Court of the United States
 
 ## What track are you choosing (analysis or engineering)?
 Analysis
