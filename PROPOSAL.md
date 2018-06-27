@@ -1,21 +1,21 @@
 # ML Project Proposal
-- STUDENT NAME
-- PROJECT TOPIC/NAME
+Clayton Swafford
+- Neuroscience
 
 ## What track are you choosing (analysis or engineering)?
-TODO
+analysis
 
 ## What is your data source?
-TODO
+Undecided
+https://neurodata.io/#
 
 ## Summarize the status of your data and what cleaning is needed.
-TODO
+I don't know
 
 ## Summarize the structure of your data and what models/techniques work with it.
-TODO
+I don't know
 
 ## What is your overall goal with this project?
-TODO
+To practice DS/ML techniques AND learn more info in an area I love.
 
 ## Anything else you want to note about your project?
-TODO
