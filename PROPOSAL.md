@@ -1,6 +1,6 @@
 # ML Project Proposal
 - Navjot
-- Resume Assistant for job applicants (given a resume and a job description, highlight parts that are not a strong match)
+- Resume Assistant for job applicants (given a resume and a job description, highlight parts that could be improved)
 
 ## What track are you choosing (analysis or engineering)?
 Engineering
