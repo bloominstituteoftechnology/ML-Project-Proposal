@@ -32,11 +32,11 @@ Haven't looked into the above sources with depth, but some common steps which wi
 
 There has been some work in this area using Deep Learning, but mostly its focused on the hiring end of the spectrum by hiring agencies. In this project, idea is to focus on the resume improvement, for the job applicant. The services/products which exist in this space seem to be mostly using rule-based parsers – so there is scope of improvement.
 
-The target of this project is NOT to suggest edits (that's a much harder thing to do) – but to highlight areas which could be improved (which is close to detecting areas which are not a strong match w.r.t. a given job description)
+The target of this project is NOT to suggest edits (as that's much harder to do) – but to highlight areas which could be improved (which is close to detecting areas which are not a strong match w.r.t. a given job description)
 
 **MVP:** at the bare minimum, given a resume and a job description, determine what % of a match it is
 
-**Future goal:** given a resume, and a job description – 'tweak' the resume to best fit the job desription
+**Future goal:** given a resume, and a job description – 'tweak' the resume to best fit the job description
 
 ## Anything else you want to note about your project?
 Collecting quality resumes could be a real blocker, would like to use all Lambda School students' help for that.
