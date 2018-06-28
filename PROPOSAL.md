@@ -12,9 +12,9 @@
 - Kaggle
 #### GAN
 - Scraping Google images (any images, not well studied, possibly insufficient data)
-- LSUN bedroom images (boring but well studied)
-- Celeb Face images (weird but well studied)
-- Celeb Face images (Cifar 10)
+- LSUN bedroom images (boring, well studied)
+- Celeb Face images (weird, well studied)
+- Cifar 10 (small images, well studied)
 ## Summarize the status of your data and what cleaning is needed.
 #### Santander
 - Completely anonymized
