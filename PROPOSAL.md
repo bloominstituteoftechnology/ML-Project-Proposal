@@ -1,21 +1,23 @@
 # ML Project Proposal
-- STUDENT NAME
-- PROJECT TOPIC/NAME
+- Antonio Hernandez
+- Selecting Features For Forcasting.
 
 ## What track are you choosing (analysis or engineering)?
-TODO
+Analysis, although if properly designed an API could be created to extract the most influential 
+features from any large, high dimensional dataset assuming that such data is in the proper format without missing values.
 
 ## What is your data source?
-TODO
+Yahoo Finance,
+Barchart
 
 ## Summarize the status of your data and what cleaning is needed.
-TODO
+The data is mostly available in csv format.  Although some scripting will be necessary to get additional data.
+In order to obtain the additional data different methods could be needed such as becoming familiar with an API, downloading a file and parsing it, and webscraping(not very likely).
 
 ## Summarize the structure of your data and what models/techniques work with it.
-TODO
-
+Data is in either a csv or tsv format.  I plan to use SVM along with other models to attain the results I seek. 
 ## What is your overall goal with this project?
-TODO
+create a model to be able to pick a group of stocks that will have better performance than the s&p500.
 
 ## Anything else you want to note about your project?
-TODO
+A simple website or a notebook will be setup to track how well my model did.
