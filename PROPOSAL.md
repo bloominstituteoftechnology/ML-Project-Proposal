@@ -1,21 +1,22 @@
 # ML Project Proposal
-- STUDENT NAME
-- PROJECT TOPIC/NAME
+- Brenner Haverlock
+- Stock Market Analysis
 
 ## What track are you choosing (analysis or engineering)?
-TODO
+Analysis
 
 ## What is your data source?
-TODO
+I will be using the dataset https://www.kaggle.com/borismarjanovic/price-volume-data-for-all-us-stocks-etfs to predict outcomes.
 
 ## Summarize the status of your data and what cleaning is needed.
-TODO
+The dataset will most likely need to be cleaned for the data I am given. This is a new concept so I will need to review the models and find my solution to the best formatted data.
+
 
 ## Summarize the structure of your data and what models/techniques work with it.
-TODO
+Structure will be using Linear Regression with TensorFlow and using Python techniques learned in the past to make it all come to magic. 
 
 ## What is your overall goal with this project?
-TODO
+Provide a accurte yet simple way to predict the stock market in a python app
 
 ## Anything else you want to note about your project?
-TODO
+I plan on picking up and using TensorFlow to build models of linear regression.
