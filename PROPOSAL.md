@@ -42,7 +42,7 @@ In terms of models and techniques, there are several approaches that could be us
 My working file for the research for this project: 
 https://docs.google.com/document/d/1pfUt47pjauGsetDUx7A90di3ev9S-84jh7q_-0lAe6s/edit?usp=sharing
 
-My biggest challenge in this project will be associated with the implementation of the ML models as I have been only programming for three months to date and I am limited to Python. 
+My biggest challenge in this project will be associated with the implementation of the ML models as I have been only programming for three months to date and I am limited to Python.  
 
 
-Last revision: 27/16/18
+Last revision: 27/06/18
