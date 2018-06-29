@@ -63,9 +63,9 @@
 - Possibly use spectral normalization (https://arxiv.org/abs/1802.05957)
 #### AUTO-GAN
 - Use existing implementation of DARTS or ENAS
-- Mostly same techniques as above but without progressive growing
+- Mostly same techniques
 - Probably keep one side static, likely discriminator
-- Use inception score to gauge how well model
+- Use inception score to gauge how well model does
 
 ## What is your overall goal with this project?
 #### Santander
