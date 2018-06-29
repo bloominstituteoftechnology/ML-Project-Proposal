@@ -73,7 +73,7 @@
 #### PR-GAN
 - Modular Architecture setup to make working with images of different dimensions in the future easy
 - Images with decent realism and diversity (avoid mode collapse)
-#### DARTS-GAN
+#### AUTO-GAN
 - Combine two fairly new areas of research
 - Satiate curiosity
 
