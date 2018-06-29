@@ -1,7 +1,7 @@
 # ML Project Proposal
 - Jasper Jenkins
 - Santander Value Prediction (https://www.kaggle.com/c/santander-value-prediction-challenge/leaderboard) 
-- Progessively Growing GAN (https://arxiv.org/abs/1710.10196) or DARTS-GAN (Differentiable Architecture Search (https://arxiv.org/abs/1806.09055) on GAN)
+- Progessively Growing GAN (https://arxiv.org/abs/1710.10196) or AUTO-GAN (Differentiable Architecture Search (https://arxiv.org/abs/1806.09055) / Efficient Neural Architecture Search via Parameter Sharing (https://arxiv.org/abs/1802.03268) for GAN architecture search)
 
 ## What track are you choosing (analysis or engineering)?
 - Analysis (Santander) 
@@ -10,11 +10,11 @@
 ## What is your data source?
 #### Santander
 - Kaggle
-#### GAN
+#### GANS
 - Scraping Google images (any images, not well studied, possibly insufficient data)
 - LSUN bedroom images (boring, well studied)
 - Celeb Face images (weird, well studied)
-- Cifar 10 (small images, well studied)
+- Cifar 10 (well studied, but small images, well studied)
 ## Summarize the status of your data and what cleaning is needed.
 #### Santander
 - Completely anonymized
@@ -39,7 +39,7 @@
 - Independent Component Analysis
 - Rowwise statistics (mean, sum, unique-count, min, max, std, skew, kurtosis)
 - Computing above on subset of columns from binning of columnwise stats(mean, sparsity%)
-- Same as above, but subsetting on clustering the columns(treating them as rows)
+- Same as above, but subsetting by clustering the columns(treating them as rows)
 
 ##### Models
 - LightGBM
@@ -61,8 +61,8 @@
 - DCGAN generator
 - Possibly use image resampling to avoid artifacting in generator (https://distill.pub/2016/deconv-checkerboard/)
 - Possibly use spectral normalization (https://arxiv.org/abs/1802.05957)
-#### DARTS-GAN
-- Use existing implementation of DARTS
+#### AUTO-GAN
+- Use existing implementation of DARTS or ENAS
 - Mostly same techniques as above but without progressive growing
 - Probably keep one side static, likely discriminator
 - Use inception score to gauge how well model
@@ -78,5 +78,7 @@
 - Satiate curiosity
 
 ## Anything else you want to note about your project?
-#### DARTS-GAN
+#### AUTO-GAN
 - Could be impractical due to training time
+- Current GAN architectures are quite linear. State-of-the-art results for image classification are non-linear (resnet, resnext)
+- One of the most successful GAN architectures, PR-GAN, uses a progressively grown linear architecture. Progressively increasing maximum allowed parameters for architecure search with an increasing resolution target could work well.
