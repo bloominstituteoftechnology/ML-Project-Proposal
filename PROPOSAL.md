@@ -5,7 +5,7 @@
 
 ## What track are you choosing (analysis or engineering)?
 - Analysis (Santander) 
-- Engineering (PR-GAN)
+- idk (GANS)
 
 ## What is your data source?
 #### Santander
@@ -14,7 +14,7 @@
 - Scraping Google images (any images, not well studied, possibly insufficient data)
 - LSUN bedroom images (boring, well studied)
 - Celeb Face images (weird, well studied)
-- Cifar 10 (well studied, but small images, well studied)
+- Cifar 10 (but small images, well studied)
 ## Summarize the status of your data and what cleaning is needed.
 #### Santander
 - Completely anonymized
