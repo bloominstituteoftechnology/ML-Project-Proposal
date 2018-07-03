@@ -48,8 +48,10 @@ Technique/Concept:
 TODO
 
 ## What is your overall goal with this project?
-To predict what are the characters likely to win in a tournaments, particularly a big one coming up in August 3-5 (just in time for the project completion).  
-To gain insight into game balance and advantages for what characters to choose to master for the purpose of winning tournaments.
+1.  To predict what are the characters likely to win in a tournaments, particularly a big one coming up in August 3-5 (just in time for the project completion). 
+Probably something similar to this http://rank.shoryuken.com/rankings/rank/SF5  except it is for the characters.
+
+2.  To gain insight into game balance and advantages for what characters to choose to master for the purpose of winning tournaments.
 
 ## Anything else you want to note about your project?
 TODO
