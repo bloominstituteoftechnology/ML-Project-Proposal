@@ -44,8 +44,9 @@ Decision tree?
 TODO
 
 Technique/Concept:  
-- Matches that have players on the similar skills level carry more weight.  
+- Algorithm similar concept to this.  http://rank.shoryuken.com/about/index e.g. Matches that have players on the similar skills level carry more weight.
 TODO
+
 
 ## What is your overall goal with this project?
 1.  To predict what are the characters likely to win in a tournaments, particularly a big one coming up in August 3-5 (just in time for the project completion). 
